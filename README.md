@@ -2,8 +2,7 @@
 
 This Flutter project follows the **Clean Architecture** pattern to ensure a clean separation of
 concerns, improved testability, and scalability. Each feature is modularized and includes its own
-set of layers. The domain layer contains business logic and repository contracts that are shared
-between features.
+set of layers. The domain layer contains business logic and a shared repository between features.
 
 ```
 lib/
